@@ -1,6 +1,8 @@
 # Copy-To-Clipboard-Hex-Colors
 
-Very basic Django + JS web page
+A basic color showcase page. Made to practice JS and uploaded cause why not. 🤷
+
+Made with Django 4.0, JS.
 
 Press click to copy the chosen hex color to your clipboard
 
