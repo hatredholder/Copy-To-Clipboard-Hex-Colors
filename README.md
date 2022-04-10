@@ -4,7 +4,7 @@ A basic color showcase page. Made to practice JS and uploaded cause why not. ðŸ¤
 
 Made with Django 4.0, JS.
 
-Press click to copy the chosen hex color to your clipboard.
+Press click to copy the chosen hex color to your clipboard, not much else to it.
 
 # Preview:
 
