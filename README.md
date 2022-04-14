@@ -1,4 +1,4 @@
-# Copy-To-Clipboard-Hex-Colors
+# Copy To Clipboard Hex Colors
 
 A basic color showcase page. Made to practice JS and uploaded it cause why not. 🤷
 
