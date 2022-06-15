@@ -2,9 +2,15 @@
 
 A basic color showcase page. Made to practice JS and uploaded it cause why not. 🤷
 
-Made with Django 4.0, JS.
-
 Press "Click" button to copy the chosen hex color to your clipboard, not much else to it.
+
+Functionality: Copy a HEX color, that's it..
+
+Frontend: CSS, Bootstrap 5.1.
+
+Backend: Django 4.0, JS.
+
+Database: SQLite.
 
 # Preview:
 
